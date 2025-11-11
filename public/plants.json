@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "plantName": "Snake Plant (Laurentii)",
+    "category": "Air Purifier",
+    "price": 18.0,
+    "rating": 4.8,
+    "availableStock": 10,
+    "careLevel": "Easy",
+    "description": "A hardy, low-maintenance plant known for its air-purifying qualities and upright, sword-like leaves. Thrives in bright, indirect light but tolerates low light.",
+    "image": "/1.jpg",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "id": "2",
+    "plantName": "Pothos (Golden)",
+    "category": "Vining & Hanging",
+    "price": 15.5,
+    "rating": 4.6,
+    "availableStock": 15,
+    "careLevel": "Very Easy",
+    "description": "A fast-growing plant with heart-shaped leaves marbled in yellow and green. Excellent for beginners and hanging baskets. Prefers medium to bright light.",
+    "image": "/2.jpg",
+    "providerName": "Leafy Lifestyles Inc."
+  },
+  {
+    "id": "3",
+    "plantName": "Monstera Deliciosa",
+    "category": "Tropical",
+    "price": 45.0,
+    "rating": 4.9,
+    "availableStock": 5,
+    "careLevel": "Medium",
+    "description": "The iconic 'Swiss Cheese Plant' with large, fenestrated leaves. Needs plenty of space and bright, indirect light to grow those beautiful splits.",
+    "image": "/3.jpg",
+    "providerName": "The Jungle Room"
+  },
+  {
+    "id": "4",
+    "plantName": "Zamioculcas Plant ",
+    "category": "Drought Tolerant",
+    "price": 22.0,
+    "rating": 4.7,
+    "availableStock": 8,
+    "careLevel": "Easiest",
+    "description": "Nearly indestructible, the ZZ Plant handles neglect like a champ. It requires infrequent watering and can handle very low light conditions.",
+    "image": "/4.jpg",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "id": "5",
+    "plantName": "Peace Lily (Spathiphyllum)",
+    "category": "Flowering",
+    "price": 28.0,
+    "rating": 4.5,
+    "availableStock": 12,
+    "careLevel": "Medium",
+    "description": "Known for its elegant white flowers, it's also a great natural humidifier. It will droop dramatically when thirsty, making watering easy to manage.",
+    "image": "/5.jpg",
+    "providerName": "Bloom & Grow"
+  },
+  {
+    "id": "6",
+    "plantName": "Fiddle Leaf Fig",
+    "category": "Tree",
+    "price": 75.0,
+    "rating": 4.3,
+    "availableStock": 3,
+    "careLevel": "Hard",
+    "description": "A popular indoor tree with large, violin-shaped leaves. Needs bright, consistent light and is sensitive to changes in environment. Requires commitment!",
+    "image": "/6.jpg",
+    "providerName": "The Jungle Room"
+  }
+]
