@@ -53,6 +53,7 @@ const Login = () => {
       .catch((e) => {
         console.log(e);
         toast.error(e.message);
+        setLoading(false);
       });
   };
 

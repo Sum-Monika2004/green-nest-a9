@@ -1,12 +1,14 @@
-import React, { useState } from "react";
-import { useLoaderData, useParams } from "react-router";
+import React, { use, useState } from "react";
+import { Link, Navigate, useLoaderData, useParams } from "react-router";
 
 import starImg from "../../assets/icon-ratings.png";
 import dollarImg from "../../assets/dollar.png";
 import availableImg from "../../assets/available.png";
 import { toast } from "react-toastify";
+import { AuthContext } from "../../Context/AuthContext";
 
 const PlantDetails = () => {
+  const { user } = use(AuthContext);
   const { id } = useParams();
   const plantId = id;
   const data = useLoaderData();
