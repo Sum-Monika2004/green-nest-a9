@@ -25,7 +25,7 @@ const Home = () => {
         <h1 className="font-bold text-5xl text-center mb-15">
           Plant Care Tips
         </h1>
-        <div className="flex gap-8 justify-evenly ">
+        <div className="flex flex-col md:flex-row gap-8 justify-evenly ">
           {/* card */}
           <div className="bg-white shadow-xl rounded-xl">
             <div className="flex justify-between items-center p-10 gap-5">
@@ -68,7 +68,7 @@ const Home = () => {
         <h1 className="font-bold text-5xl text-center mb-15">
           Meet Our Green Experts
         </h1>
-        <div className="flex gap-8 justify-evenly  mb-20">
+        <div className="flex flex-col md:flex-row gap-8 justify-evenly  mb-20">
           {/* card */}
           <div className="bg-white shadow-xl rounded-xl">
             <div className="flex justify-between  items-start p-10 gap-3">

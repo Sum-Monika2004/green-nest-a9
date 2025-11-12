@@ -112,7 +112,7 @@ const Header = () => {
                 <p className="text-gray-400">{user?.email}</p>
                 <button
                   onClick={handleSignOut}
-                  className="bg-green-700 text-white btn"
+                  className="bg-green-700 text-white btn w-full"
                 >
                   Sign Out
                 </button>
